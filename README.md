@@ -1,4 +1,4 @@
-# YouTube Clone ( MERN stack video sharing app )
+# YouTube Clone 
 ```
 # ReactJS in the frontend
 # State management in the frontend using Redux & Redux Toolkit
@@ -9,7 +9,6 @@
 # Axios http client
 # JWT cookie authentication
 # Hashed password saving in the MongoDB database
-# Login & Signup with custom Email & Password, Google OAuth using firebase authentication
 # RESTful API using ExpressJS and MongoDB with mongoose
 # Error handler & Protected routes
 ```
